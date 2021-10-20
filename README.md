@@ -1,9 +1,10 @@
 <h1 align="center"> Hello There! 👋 I'm Soumajit </h1>
-<p align ="Center"> <font size="4">Soon To Be a Full Stack Dev </p></font>
+<p align ="Center"> <font size="4">Soon To Be a Full Stack Dev  </p></font>
 
 - Undergrade 🧑‍🎓
 - Media Manipulator 🎬
 - Tech Enthusiast 💻
+- Pronouns: He / Him 😄
 
 ## 📚Currently Learning
 
@@ -41,9 +42,15 @@
 <a href="mailto:itssoumajit@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="50" height="40"/> </a>
 <br></br>
 
+![](https://komarev.com/ghpvc/?username=Soumajit-Roy&color=green&label=PROFILE+VIEWS)
 
 # Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumajit-Roy&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumajit-Roy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Github Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Soumajit-Roy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 
