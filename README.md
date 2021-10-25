@@ -1,4 +1,4 @@
-<h1 align="center"> Hello There! 👋 I'm Soumajit </h1>
+<p align="center"> <img src=https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=%230EF788&size=24&center=true&multiline=true&height=80&lines=Hello+There!+%F0%9F%91%8B+Im+Soumajit;Nice+to+Meet+You+all+%F0%9F%98%84></p>
 <p align ="Center"> <font size="4">Soon To Be a Full Stack Dev  </p></font>
 
 - Undergrade 🧑‍🎓
