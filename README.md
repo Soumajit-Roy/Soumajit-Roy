@@ -53,4 +53,7 @@
 # Github Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Soumajit-Roy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
+# Fun
+![github contribution grid snake animation](https://raw.githubusercontent.com/Soumajit-Roy/Soumajit-Roy/output/github-contribution-grid-snake.svg)
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
