@@ -38,7 +38,7 @@
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/soumajit-roy-2a7242196/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="40"/> </a>
+<a href="https://twitter.com/Roy_Soumajit"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="40"/> </a>
 <a href="mailto:itssoumajit@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="50" height="40"/> </a>
 <br></br>
 
