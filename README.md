@@ -53,6 +53,9 @@
 # Github Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Soumajit-Roy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
+# Whats On My Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samedmfreak&cover_image=true&theme=natemoo-re&bar_color=17e8a9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 # Fun
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Soumajit-Roy/Soumajit-Roy/output/github-contribution-grid-snake.svg)
 
