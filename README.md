@@ -57,6 +57,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samedmfreak&cover_image=true&theme=natemoo-re&bar_color=17e8a9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 # Fun
-![github contribution grid snake animation](https://raw.githubusercontent.com/Soumajit-Roy/Soumajit-Roy/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Soumajit-Roy/Soumajit-Roy/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+Thanks To [Platane/snk](https://github.com/Platane/snk)
