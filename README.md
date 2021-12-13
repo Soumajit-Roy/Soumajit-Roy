@@ -8,7 +8,8 @@
 
 ## 📚Currently Learning
 
-<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="50" height="50" /> </a>
 
 
 
@@ -60,3 +61,5 @@
 ![snake](https://raw.githubusercontent.com/Soumajit-Roy/Soumajit-Roy/output/github-contribution-grid-snake.svg)
 
 Thanks To [Platane/snk](https://github.com/Platane/snk)
+
+
