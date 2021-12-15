@@ -46,20 +46,36 @@
 ![](https://komarev.com/ghpvc/?username=Soumajit-Roy&color=green&label=PROFILE+VIEWS)
 
 # Github Stats
+<details>
+  <summary markdown="span">Click To Expand</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumajit-Roy&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumajit-Roy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
+
 # Github Trophies
+<details>
+  <summary markdown="span">Click To Expand</summary>
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Soumajit-Roy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
+</details>
+
 # Whats On My Spotify
+<details>
+  <summary markdown="span">Click To Reveal</summary>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samedmfreak&cover_image=true&theme=natemoo-re&bar_color=17e8a9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+</details>
+
 # Fun
+
 ![snake](https://raw.githubusercontent.com/Soumajit-Roy/Soumajit-Roy/output/github-contribution-grid-snake.svg)
 
 Thanks To [Platane/snk](https://github.com/Platane/snk)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
 
