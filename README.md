@@ -1,7 +1,7 @@
 <p align="center"> <img src=https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=%230EF788&size=24&center=true&multiline=true&height=80&lines=Hello+There!+%F0%9F%91%8B+Im+Soumajit;Nice+to+Meet+You+all+%F0%9F%98%84></p>
 <p align ="Center"> <font size="4">Soon To Be a Full Stack Dev  </p></font>
 
-- Undergrade 🧑‍🎓
+- Undergrad 🧑‍🎓
 - Media Manipulator 🎬
 - Tech Enthusiast 💻
 - Pronouns: He / Him 😄
@@ -33,7 +33,7 @@
 
 ## 🏅Batches
 
-<a href="mailto:itssoumajit@gmail.com"> <img src="https://images.credly.com/size/680x680/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png" alt="Microsoft Technical Associate" width="100" height="100"/> </a>
+ <img src="https://images.credly.com/size/680x680/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png" alt="Microsoft Technical Associate" width="100" height="100"/> </a>
 <br></br>
 
 ## Connect With Me
