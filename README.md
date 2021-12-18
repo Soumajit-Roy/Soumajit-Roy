@@ -36,40 +36,40 @@
  <img src="https://images.credly.com/size/680x680/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png" alt="Microsoft Technical Associate" width="100" height="100"/> </a>
 <br></br>
 
-## Connect With Me
+<details>
+  <summary markdown="span"><b>📮 Connect With Me</b></summary>
 
 <a href="https://www.linkedin.com/in/soumajit-roy-2a7242196/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="40"/> </a>
 <a href="https://twitter.com/Roy_Soumajit"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="40"/> </a>
 <a href="mailto:itssoumajit@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="50" height="40"/> </a>
+</details>
 <br></br>
 
 ![](https://komarev.com/ghpvc/?username=Soumajit-Roy&color=green&label=PROFILE+VIEWS)
-
-# Github Stats
+<br></br>
 <details>
-  <summary markdown="span">Click To Expand</summary>
+  <summary markdown="span"><b>⚡ Github Stats</b></summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumajit-Roy&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumajit-Roy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
-# Github Trophies
+<br>
 <details>
-  <summary markdown="span">Click To Expand</summary>
+  <summary markdown="span"><b>🏆 Github Trophies</b></summary>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Soumajit-Roy&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 </details>
-
-# Whats On My Spotify
+<br>
 <details>
-  <summary markdown="span">Click To Reveal</summary>
+  <summary markdown="span"><b>🎵 Whats On My Spotify</b></summary>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samedmfreak&cover_image=true&theme=natemoo-re&bar_color=17e8a9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </details>
+<br></br>
 
 # Fun
 
