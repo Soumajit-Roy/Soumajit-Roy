@@ -66,7 +66,7 @@
 <details>
   <summary markdown="span"><b>🎵 Whats On My Spotify</b></summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samedmfreak&cover_image=true&theme=natemoo-re&bar_color=17e8a9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samedmfreak&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 </details>
 <br></br>
