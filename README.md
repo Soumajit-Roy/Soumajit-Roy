@@ -36,6 +36,8 @@
  <img src="https://images.credly.com/size/680x680/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png" alt="Microsoft Technical Associate" width="100" height="100"/> </a>
 <br></br>
 
+[![@soumajit's Holopin board](https://holopin.me/soumajit)](https://holopin.io/@soumajit)
+
 <details>
   <summary markdown="span"><b>📮 Connect With Me</b></summary>
 
