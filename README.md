@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **itssoumajit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ysP9OI4cD_JNbx9u8i9APmT5pVbfL1hc/view?usp=sharing](https://drive.google.com/file/d/1ysP9OI4cD_JNbx9u8i9APmT5pVbfL1hc/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/16zsN3jlMOpOUzjr_XLUAwYv9anY5Aupp/view?usp=sharing)
 
 - ⚡ Fun fact **Love to Play n Watch Football**
 
