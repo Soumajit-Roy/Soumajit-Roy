@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=25&pause=1000&color=1FF789&background=D8FF3100&center=true&width=500&lines=An+aspiring+Frontend+Developer+from+India+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 <div align="Center">
-<img src="https://github-readme-stats.vercel.app/api?username=Soumajit-Roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumajit-Roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumajit-Roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Language Stats"/>
 
@@ -58,4 +58,4 @@ Tech Stack
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=samedmfreak&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=samedmfreak&redirect=true)
 
-</center>
+</center> 
