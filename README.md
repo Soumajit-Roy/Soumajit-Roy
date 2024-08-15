@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20There!&reversal=false&desc=I'm%20Soumajit%20Roy&descAlign=60&fontAlign=26&descSize=60&fontSize=40&descAlignY=45&fontAlignY=27&fontColor=000000" width="100%">
 
+<div align="Center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=25&pause=1000&color=1FF789&background=D8FF3100&center=true&width=500&lines=An+aspiring+Frontend+Developer+from+India+%F0%9F%98%8E)](https://git.io/typing-svg)
+
+</div>
 
 <div align="Center">
 <img src="https://github-readme-stats.vercel.app/api?username=Soumajit-Roy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="165"/>
