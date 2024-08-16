@@ -58,8 +58,12 @@ Tech Stack
 <a href="https://codepen.io/soumajit-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="soumajit-roy" height="40" /></a>
 </div>
 
-<center>
 
+
+<div align="center">
+  
+## Whats on My Spotify
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=samedmfreak&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=samedmfreak&redirect=true)
 
-</center> 
+</div> 
