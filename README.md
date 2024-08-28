@@ -26,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="25" height="25" /> I’m currently learning **React, NodeJS**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Rowing%20Boat%20Medium%20Skin%20Tone.png" alt="Person Rowing Boat Medium Skin Tone" width="25" height="25" /> All of my projects are available at [Portfolio](example.com)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Rowing%20Boat%20Medium%20Skin%20Tone.png" alt="Person Rowing Boat Medium Skin Tone" width="25" height="25" /> All of my projects are available at [Portfolio](https://itssoumajit.netlify.app/)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Ask me about **CSS, Bootstrap, HTML, JS**
 
