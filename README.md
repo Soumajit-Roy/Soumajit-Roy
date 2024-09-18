@@ -32,7 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Auto%20Rickshaw.png" alt="Auto Rickshaw" width="25" height="25" /> How to reach me **itssoumajit@gmail.com**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> Know about my experiences [Resume Link](https://drive.google.com/file/d/1E-Qt080bXRxK5YVGShmyFCidyb6ungQE/view?usp=sharing)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> Know about my experiences [Resume Link](https://drive.google.com/file/d/1L6naFaCC2ckzLj9dAMcZXI4tX6ax8Yl6/view?usp=sharing)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" alt="Soccer Ball" width="25" height="25" /> Fun fact **Love to Play n Watch Football**
 
