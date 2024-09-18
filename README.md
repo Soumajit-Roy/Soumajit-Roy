@@ -22,7 +22,7 @@
 <br></br>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" alt="Maracas" width="25" height="25" /> I’m currently working on [LinkStix](https://github.com/Soumajit-Roy/LinkStix)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" alt="Maracas" width="25" height="25" /> I’m currently working on [Responsive Photography Portfolio](https://github.com/Soumajit-Roy/Photography-Portfolio)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png" alt="Jellyfish" width="25" height="25" /> I’m currently learning **React, NodeJS**
 
