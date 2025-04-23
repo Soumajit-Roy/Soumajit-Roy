@@ -80,7 +80,7 @@ on:
 jobs:
   # <job-id>: generate-animation
   generate-animation:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: Platane/snk@master
