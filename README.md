@@ -2,7 +2,7 @@
 
 <div align="Center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Double&pause=1000&color=05F7B0&background=4C26FF00&center=true&width=500&height=100&lines=I+am+a+Railway+Signalling+and+Kavach+(TCAS)+Commissioning+Engineer+with+hands-on+experience+in+testing%2C+deployment%2C+and+commissioning+of+train+collision+avoidance+systems+for+Indian+Railways.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Double&pause=1000&color=05F7B0&background=4C26FF00&multiline=true&width=700&lines=I+am+a+Railway+Signalling+and+Kavach+(TCAS)+Commissioning+Engineer.)](https://git.io/typing-svg)
 
 </div>
 
